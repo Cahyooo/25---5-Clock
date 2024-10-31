@@ -1,0 +1,35 @@
+.section-lenght {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.session {
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.session-control {
+    font-size: 40px;
+}
+
+.bi {
+    cursor: pointer;
+}
+
+p, .length {
+    user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.length {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.length p {
+    margin: 0;
+    padding: 0;
+}
